@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/frey-eth/leetcode/tree/master/0045-jump-game-ii) |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/frey-eth/leetcode/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
 | [3397-maximum-number-of-distinct-elements-after-operations](https://github.com/frey-eth/leetcode/tree/master/3397-maximum-number-of-distinct-elements-after-operations) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/frey-eth/leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
@@ -21,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/frey-eth/leetcode/tree/master/0045-jump-game-ii) |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/frey-eth/leetcode/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
 | [3397-maximum-number-of-distinct-elements-after-operations](https://github.com/frey-eth/leetcode/tree/master/3397-maximum-number-of-distinct-elements-after-operations) |
 ## Hash Table
@@ -39,4 +41,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/frey-eth/leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0045-jump-game-ii](https://github.com/frey-eth/leetcode/tree/master/0045-jump-game-ii) |
 <!---LeetCode Topics End-->
