@@ -6,6 +6,5 @@ function reverseSubmatrix(grid, x, y, k) {
             grid[x+k-i-1][j] = flag
         }
     }
-
     return grid
 };
